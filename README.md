@@ -4,4 +4,6 @@ introducing the ProxSkip algorithm for minimizing the sum of a smooth fucnction 
 
 The ultimate goal of the project is giving a presentation in Moscow Institute of Physics and technology. Thus, some parts of work will be done in Russian language.
 
+For citing the paper, use [this](https://github.com/KseniyaShestakova/ProxSkip/blob/main/citation.bib).
+
 
